@@ -1314,13 +1314,13 @@ footer .footertxt {
 }
 
 .ctaMethod {
-  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/features.jpg") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/11.png") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
 
 .ctaabout {
-  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/about.jpg") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/about2.jpeg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
@@ -1333,7 +1333,7 @@ footer .footertxt {
   background-size: cover;
 }
 .Value {
-  background: linear-gradient(rgba(2, 2, 2, 0.756), rgba(0, 0, 0, 0.748)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.756), rgba(0, 0, 0, 0.748)), url("../img/4.jpeg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
